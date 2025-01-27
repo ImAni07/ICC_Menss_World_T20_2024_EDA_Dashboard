@@ -66,7 +66,7 @@ The ICC World T20 2024 Analytics project successfully provided in-depth insights
 
 ---
 
-#### 8. References
+# 7. References
 
 - Datasets: Kaggle and ESPNCricInfo.
 - Tools Used: Jupyter Notebook, PowerBI, MS Excel.
@@ -76,4 +76,4 @@ The ICC World T20 2024 Analytics project successfully provided in-depth insights
 Feel free to adjust or expand on any sections based on your specific analyses or findings!
 
 Author: Anirban Majumder
-Contact: <www.linkedin.com/in/anirban-majumder-49344a288? 
+Contact: <https://www.linkedin.com/in/anirban-majumder-49344a288/>
